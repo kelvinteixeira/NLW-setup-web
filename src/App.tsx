@@ -1,15 +1,16 @@
-import { Habit } from './component/Habit'
+// import { Habit } from './component/Habit'
 
-function App() {
+import { Header } from "./component/Header";
+
+
+export function App() {
 
   return (
-    <>
-      <Habit completed={3} />
-      <Habit completed={10} />
-      <Habit completed={20} />
-      <Habit completed={30} />
-    </>
+    <div className="w-screen h-screen flex justify-center items-center">
+      <div className="w-full max-w-5xl px-6 flex flex-col gap-16">
+        <Header />
+      </div>
+    </div>
   )
 }
 
-export default App
