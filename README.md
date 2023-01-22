@@ -1,4 +1,4 @@
-# NLW-SETUP
+# Habits
 
 ## Sobre o projeto:
 
