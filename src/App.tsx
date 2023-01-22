@@ -1,5 +1,4 @@
-// import { Habit } from './component/Habit'
-
+import './lib/dayjs'
 import { Header } from "./component/Header";
 import { SummaryTable } from "./component/SummaryTable";
 
