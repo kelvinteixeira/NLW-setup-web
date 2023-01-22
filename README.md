@@ -5,10 +5,10 @@
 Aplicação com o propósito de gereciar habitos diários. Oferecido pelo rocketseat, apenas como intuido de aprendizado.
 
 ### Link Backend
-https://github.com/kelvinteixeira/NLW-setup-mobile
+https://github.com/kelvinteixeira/NLW-setup-server
 
 ### Link Mobile
-https://github.com/kelvinteixeira/NLW-setup-server
+https://github.com/kelvinteixeira/NLW-setup-mobile
 
 #### <div align="right">- Projeto Finalizado 🟢 <div>
 
